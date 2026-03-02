@@ -8,7 +8,8 @@ My name is **BILL THE BALL**<!-- the bold part is the origin of my ID -->. A gam
 
 -   💻 Uses: Golang / Java / Lua / Love2D
 -   :package: Worked on: [Garden Street](https://github.com/BillTheBall/GardenStreet)
--   :microscope: Learning Development
+-   :microscope: Currently: Learning Development
+-   ⭐ Other Skills: CAD Designing
 
 ---
 
