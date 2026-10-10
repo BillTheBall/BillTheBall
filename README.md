@@ -1,20 +1,22 @@
 
 My name is **BILL THE BALL**<!-- the bold part is the origin of my ID -->. A game developer, and aspiring back-end developer
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BillTheBall&custom_title=BTB%20Stats&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=BillTheBall&custom_title=BTB%20Stats&show_icons=true&include_all_commits=true&theme=dracula) 
+
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-billtheball.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture> -->
 
--   💻 Uses: Golang / Java / Lua / Love2D
+-   💻 Uses: Golang / Java / Lua / Love2D / C
 -   :package: Worked on: [Garden Street](https://github.com/BillTheBall/GardenStreet), [JAFetch](https://github.com/BillTheBall/JAFetch)
--   :microscope: Currently: Learning Development
--   ⭐ Other Skills: CAD Designing
+-   :microscope: Currently: Building MusiX
+-   ⭐ Other Skills: CAD Designing, Sewing, and Presenting
 
 ---
 
 ### :pencil: Resources Outside of Github 
-
+None Currently
 
 <!--START_SECTION:blog-posts-->
 <!-- -   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
